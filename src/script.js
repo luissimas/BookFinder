@@ -1,5 +1,5 @@
 //API key
-const apiKey = 'AIzaSyAZVpG9uqFgbgGyNR9y46WVpvyaQIbO4Ms';
+const apiKey = '';
 
 //Axios setup
 const GoogleAPI = axios.create({
